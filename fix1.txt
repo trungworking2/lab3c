@@ -1,0 +1,2 @@
+## fix1.txt
+Bổ sung file fix1.txt
